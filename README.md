@@ -1,7 +1,7 @@
 ### Welcome, I use github as my personal blog. Feel free to look around. 
 
-🎓 Computer Engineering graduate (UENR)
-💻 Passionate about **Networking | Cloud | Cybersecurity | Hardware**
+-🎓 Computer Engineering graduate (UENR)
+-💻 Passionate about **Networking | Cloud | Cybersecurity | Hardware**
 🌍 Open to collaboration on **open-source, networking, and cloud projects**
 
 
