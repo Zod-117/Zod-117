@@ -22,9 +22,7 @@
 
 ---
 
-![Ebenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zod-117&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zod-117&layout=compact&theme=radical)
+![Ebenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zod-117&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zod-117&layout=compact&theme=radical)
 
 
 
