@@ -1,18 +1,18 @@
 ### Welcome, I use github as my personal blog. Feel free to look around. 
 
 🎓 Computer Engineering graduate (UENR)<br/>
-💻 Passionate about **Networking | Cloud | Cybersecurity | Hardware**
-🌍 Open to collaboration on **open-source, networking, and cloud projects**
+💻 Passionate about **Networking | Cloud | Cybersecurity | Hardware**<br/>
+🌍 Open to collaboration on **open-source, networking, and cloud projects**<br/>
 
 
 ---
 
 ## 🚀 About Me
-📊 Worked on **Dynamic Bandwidth Scheduling simulation**
-🛰️ Built a **GPS-based Tracking System** with Arduino, SIM800L, and GPS Module
-🛠️ Practicing **advanced networking labs** with Packet Tracer & EVE-NG
-🌐 Huawei ICT Competition - National Finalist (Networking Track)
-📱 Developed an app for a hospital to help with their records
+📊 Worked on **Dynamic Bandwidth Scheduling simulation**<br/>
+🛰️ Built a **GPS-based Tracking System** with Arduino, SIM800L, and GPS Module<br/>
+🛠️ Practicing **advanced networking labs** with Packet Tracer & EVE-NG<br/>
+🌐 Huawei ICT Competition - National Finalist (Networking Track)<br/>
+📱 Developed an app for a hospital to help with their records<br/>
 
 
 ---
