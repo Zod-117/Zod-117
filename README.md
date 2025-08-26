@@ -13,6 +13,7 @@
 🛠️ Practicing **advanced networking labs** with Packet Tracer & EVE-NG<br/>
 🌐 Huawei ICT Competition - National Finalist (Networking Track)<br/>
 📱 Developed an app for a hospital to help with their records<br/>
+🎮 Competitive Mortal Kombat player<br/>
 
 
 ---
