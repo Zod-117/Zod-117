@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 📊 Worked on **Dynamic Bandwidth Scheduling simulation**<br/>
 🛰️ Built a **GPS-based Tracking System** with Arduino, SIM800L, and GPS Module<br/>
 🛠️ Practicing **advanced networking labs** with Packet Tracer & EVE-NG<br/>
