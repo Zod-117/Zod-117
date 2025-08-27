@@ -1,4 +1,4 @@
-### Welcome, I use github as my personal blog. Feel free to look around. 
+### Welcome, I use github as my personal blog. Feel free to look around 
 
 🎓 Computer Engineering graduate (UENR)<br/>
 💻 Passionate about **Networking | Cloud | Cybersecurity | Hardware**<br/>
