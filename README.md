@@ -141,9 +141,9 @@ I post **networking simulations, lab walkthroughs, and tech explainers** on YouT
 
 <div align="center">
 
-![Zod-117's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zod-117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Zod-117's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zod-117&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zod-117&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zod-117&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
