@@ -106,7 +106,7 @@ A collection of hands-on networking labs covering CompTIA Network+ objectives �
 
 ---
 
-### 🗺️ [GPS Tracking System](https://github.com/Zod-117/GPS-Tracking)
+### 🗺️ [GPS Tracking System](https://github.com/Zod-117/Hardware/tree/main/GPS%20based%20tracking%20system)
 > Arduino · NEO-6M GPS · SIM800L GSM · IoT
 
 A low-cost real-time GPS tracker using Arduino, sending live coordinates via SMS and Google Maps links. Built as a final-year IoT project.
