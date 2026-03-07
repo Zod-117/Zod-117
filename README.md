@@ -113,7 +113,7 @@ A low-cost real-time GPS tracker using Arduino, sending live coordinates via SMS
 
 ---
 
-### 📊 [Dynamic Bandwidth Scheduling](https://github.com/Zod-117/Dynamic-Bandwidth)
+### 📊 [Dynamic Bandwidth Scheduling](https://github.com/Zod-117/Dynamic-Bandwidth-Scheduling-for-WCDMA-Uplink-Transmission)
 > MATLAB/Simulink · Deep Learning · Research
 
 Simulation model studying uplink bandwidth allocation in WCDMA networks. Implemented dynamic scheduling algorithms with optional deep learning components — demonstrated improved efficiency over static methods.
