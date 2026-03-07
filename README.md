@@ -143,8 +143,6 @@ I post **networking simulations, lab walkthroughs, and tech explainers** on YouT
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zod-117&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zod-117&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
