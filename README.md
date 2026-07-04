@@ -12,7 +12,7 @@
 ### Hi, I'm **Asomani Ebenezer Sarpong** 👋
 #### Computer Engineer · Network Enthusiast · Builder of Things
 
-[![YouTube](https://img.shields.io/badge/YouTube-ESAsomani-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ESAsomani)
+[![YouTube](https://img.shields.io/badge/YouTube-RetroLab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RetroIsLabbing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebenezer-sarpong-asomani-291393270/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebenezersarpongasomani@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Ghana-Takoradi-009B77?style=for-the-badge)](https://github.com/Zod-117)
