@@ -133,7 +133,7 @@ I post **networking simulations, lab walkthroughs, and tech explainers** on YouT
 
 > *"The best way to really learn something is to try to teach it."*
 
-[![YouTube Channel](https://img.shields.io/badge/▶_Watch_on_YouTube-ESAsomani-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ESAsomani)
+[![YouTube Channel](https://img.shields.io/badge/▶_Watch_on_YouTube-RetroLab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RetroIsLabbing)
 
 ---
 
@@ -152,7 +152,7 @@ I post **networking simulations, lab walkthroughs, and tech explainers** on YouT
 I'm actively looking for roles in **network engineering, cloud infrastructure, IT support, or cybersecurity**. Based in Ghana, open to remote opportunities.
 
 📧 [ebenezersarpongasomani@gmail.com](mailto:ebenezersarpongasomani@gmail.com)
-📺 [youtube.com/@ESAsomani](https://www.youtube.com/@ESAsomani)
+📺 [youtube.com/@ESAsomani](https://www.youtube.com/@RetroIsLabbing)
 
 ---
 
