@@ -152,7 +152,7 @@ I post **networking simulations, lab walkthroughs, and tech explainers** on YouT
 I'm actively looking for roles in **network engineering, cloud infrastructure, IT support, or cybersecurity**. Based in Ghana, open to remote opportunities.
 
 📧 [ebenezersarpongasomani@gmail.com](mailto:ebenezersarpongasomani@gmail.com)
-📺 [youtube.com/@ESAsomani](https://www.youtube.com/@RetroIsLabbing)
+📺 [youtube.com/@RetroLab](https://www.youtube.com/@RetroIsLabbing)
 
 ---
 
