@@ -141,7 +141,7 @@ I post **networking simulations, lab walkthroughs, and tech explainers** on YouT
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zod-117&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RetroIsLabbing&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
